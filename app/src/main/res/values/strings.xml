@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio5</string>
+    <string name="pv">Primer valor</string>
+    <string name="sva">Segundo valor</string>
+    <string name="resu">Resultado</string>
+    <string name="op">Operar</string>
+</resources>
